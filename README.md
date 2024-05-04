@@ -7,3 +7,7 @@
 ### 專案二_1602LCD螢幕實習
 ### 專案檔案:1602LCD.ino(由C++開發)
 ### 連結:https://hackmd.io/o7zLnOKqSBG5ZM5XNlQ7yw
+### 專案三_RFID及OLED實驗
+### 連結:https://hackmd.io/kn6WMThHQzyo-rgiMDgmzw
+### 專案檔案:RFID.ino(由C++開發)
+
